@@ -1,0 +1,15 @@
+{
+  "name": "ngQuickTable",
+  "version": "1.0.0",
+  "authors": [
+    "Eisneim Terry<eisneim1@gmail.com>"
+  ],
+  "main": [
+    "ng-quick-table.js",
+    "ng-quick-table.css"
+  ],
+  "description": "responsive table component for angular app",
+  "dependencies": {
+    "angular": ">= 1.2.0"
+  }
+}
